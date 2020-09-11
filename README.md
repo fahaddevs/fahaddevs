@@ -9,14 +9,27 @@
 [![](https://img.shields.io/badge/-@fahaddevs-%23000000?style=flat-square&logo=codepen)](https://codepen.io/fahaddevs)
 [![](https://img.shields.io/badge/-@fahaddevs-%23000000?style=flat-square&logo=facebook)](https://facebook.com/fahaddevs)
 
+***
+
+<br>
+<br>
 
 
 [![Fahaddevs's github stats](https://github-readme-stats.vercel.app/api?username=fahaddevs&include_all_commits=true&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats) 
 
+***
+
+<br>
+<br>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahaddevs&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
+***
+
+
+<br>
+<br>
 
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
@@ -40,9 +53,18 @@
 ![Stylus](https://img.shields.io/badge/-Stylus-%23333333?style=flat-square&logo=stylus)
 ![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
 
+***
 
+<br>
+<br>
+
+
+## Stackoverflow 
 [![Fahaddevs StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9135470&theme=dark)](https://stackoverflow.com/users/9135470/fahaddevs)
+***
 
+<br>
+<br>
 
 ## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
 
