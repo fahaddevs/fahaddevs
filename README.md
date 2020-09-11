@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
-[![](https://img.shields.io/badge/-@fahaddevs-%231DA1F2?style=flat-square&logo=Linkedin&logoColor=ffffff)](https://www.linkedin.com/in/fahaddevs/){:target="_blank"}
+[![](https://img.shields.io/badge/-@fahaddevs-%231DA1F2?style=flat-square&logo=Linkedin&logoColor=ffffff)](https://www.linkedin.com/in/fahaddevs/)[:target="_blank"]
 [![](https://img.shields.io/badge/-@fahaddevs-%231DA1F2?style=flat-square&logo=instagram&logoColor=ffffff)](https://instagram.com/fahaddevs/)
 [![](https://img.shields.io/badge/-@fahaddevs-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/fahaddevs)
 [![](https://img.shields.io/badge/-@fahaddevs-%23181717?style=flat-square&logo=github)](https://github.com/fahaddevs)
