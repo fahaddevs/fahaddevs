@@ -41,7 +41,7 @@
 ![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
 
 
-[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6558042&theme=dark)](https://stackoverflow.com/users/9135470/fahaddevs)
+[![Fahaddevs StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9135470&theme=dark)](https://stackoverflow.com/users/9135470/fahaddevs)
 
 
 ## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
