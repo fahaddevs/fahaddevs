@@ -44,7 +44,7 @@
 
 ## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=fahaddevs)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=fahaddevs) [![Years Badge](https://badges.pufler.dev/years/puf17640)](https://github.com/fahaddevs)
 
 <!--
 **fahaddevs/fahaddevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
