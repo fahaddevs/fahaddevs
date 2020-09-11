@@ -37,10 +37,7 @@
 
 ## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
 
-![Visitor Count](https://profile-counter.glitch.me/{fahadedvs}/count.svg)
-<!--
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) 
- -->
+![visitors](https://visitor-badge.glitch.me/badge?page_id=fahaddevs)
 
 <!--
 **fahaddevs/fahaddevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
