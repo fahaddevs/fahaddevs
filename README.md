@@ -1,5 +1,9 @@
-# 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 𝗬𝘂𝗻𝘄𝗲𝗶 𝗫𝗶𝗮𝗼
+# 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Fahad Bin Faiz
 
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+
+[![](https://img.shields.io/badge/-@fahaddevs-%231DA1F2?style=flat-square&logo=Linkedin&logoColor=ffffff)](https://www.linkedin.com/in/fahaddevs/)
+[![](https://img.shields.io/badge/-@fahaddevs-%231DA1F2?style=flat-square&logo=instagram&logoColor=ffffff)](https://instagram.com/fahaddevs/)
 [![](https://img.shields.io/badge/-@fahaddevs-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/fahaddevs)
 [![](https://img.shields.io/badge/-@fahaddevs-%23181717?style=flat-square&logo=github)](https://github.com/fahaddevs)
 [![](https://img.shields.io/badge/-@fahaddevs-%23000000?style=flat-square&logo=codepen)](https://codepen.io/fahaddevs)
@@ -19,14 +23,17 @@
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
+![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 
 
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
