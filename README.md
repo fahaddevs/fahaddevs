@@ -37,7 +37,10 @@
 
 ## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
 
-[![Hits](https://github.com/fahaddevs/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%231CB1D7&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://github.com/fahaddevs)
+![Visitor Count](https://profile-counter.glitch.me/{fahadedvs}/count.svg)
+<!--
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) 
+ -->
 
 <!--
 **fahaddevs/fahaddevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
