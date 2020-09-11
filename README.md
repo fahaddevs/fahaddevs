@@ -2,6 +2,8 @@
 
 - 🔭 I’m currently working on TheSoftKing
 - 🌱 I’m currently learning React JS
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?fahaddevs=fahaddevs)](https://github.com/fahaddevs/github-readme-stats)
 <!--
 **fahaddevs/fahaddevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
