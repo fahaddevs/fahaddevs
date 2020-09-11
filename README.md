@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on TheSoftKing
 - 🌱 I’m currently learning React JS
 
-![Fahaddevs's github stats](https://github-readme-stats.vercel.app/api?username=fahaddevs)
+![Fahaddevs's github stats](https://github-readme-stats.vercel.app/api?username=fahaddevs&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahaddevs)](https://github.com/anuraghazra/github-readme-stats)
 
