@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
-[![Facebook](https://img.shields.io/badge/-@fahaddevs-%23000000?style=flat-square&logo=facebook&logoColor=ffffff&labelColor=%3b5998&color=%ffffff)](https://facebook.com/fahaddevs)
+[![Facebook](https://img.shields.io/badge/-@fahaddevs?style=flat-square&logo=facebook&logoColor=ffffff&labelColor=%3b5998&color=%ffffff)](https://facebook.com/fahaddevs)
 [![Linkedin](https://img.shields.io/badge/-@fahaddevs-%231DA1F2?style=flat-square&logo=Linkedin&logoColor=ffffff)](https://www.linkedin.com/in/fahaddevs/)
 [![Instagram](https://img.shields.io/badge/-@fahaddevs-%231DA1F2?style=flat-square&logo=instagram&logoColor=ffffff)](https://instagram.com/fahaddevs/)
 [![Twitter](https://img.shields.io/badge/-@fahaddevs-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/fahaddevs)
