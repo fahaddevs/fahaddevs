@@ -2,12 +2,16 @@
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
-[![](https://img.shields.io/badge/-@fahaddevs-%231DA1F2?style=flat-square&logo=Linkedin&logoColor=ffffff)](https://www.linkedin.com/in/fahaddevs/)
-[![](https://img.shields.io/badge/-@fahaddevs-%231DA1F2?style=flat-square&logo=instagram&logoColor=ffffff)](https://instagram.com/fahaddevs/)
-[![](https://img.shields.io/badge/-@fahaddevs-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/fahaddevs)
-[![](https://img.shields.io/badge/-@fahaddevs-%23181717?style=flat-square&logo=github)](https://github.com/fahaddevs)
-[![](https://img.shields.io/badge/-@fahaddevs-%23000000?style=flat-square&logo=codepen)](https://codepen.io/fahaddevs)
-[![](https://img.shields.io/badge/-@fahaddevs-%23000000?style=flat-square&logo=facebook)](https://facebook.com/fahaddevs)
+[![Facebook](https://img.shields.io/badge/-@fahaddevs-%3b5998?style=flat-square&logo=facebook)](https://facebook.com/fahaddevs)
+[![Linkedin](https://img.shields.io/badge/-@fahaddevs-%0077b5?style=flat-square&logo=Linkedin&logoColor=ffffff)](https://www.linkedin.com/in/fahaddevs/)
+[![Instagram](https://img.shields.io/badge/-@fahaddevs-%3f729b?style=flat-square&logo=instagram&logoColor=ffffff)](https://instagram.com/fahaddevs/)
+[![Twitter](https://img.shields.io/badge/-@fahaddevs-%55acee?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/fahaddevs)
+[![Youtube](https://img.shields.io/badge/-@fahaddevs-%cd201f?style=flat-square&logo=youtube)](https://www.youtube.com/fahaddevs)
+
+[![Github](https://img.shields.io/badge/-@fahaddevs-%00405d?style=flat-square&logo=github)](https://github.com/fahaddevs)
+[![Codepen](https://img.shields.io/badge/-@fahaddevs-%000000?style=flat-square&logo=codepen)](https://codepen.io/fahaddevs)
+
+
 
 
 [![Fahaddevs's github stats](https://github-readme-stats.vercel.app/api?username=fahaddevs&include_all_commits=true&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats) 
