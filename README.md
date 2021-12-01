@@ -43,6 +43,7 @@
 ![Stylus](https://img.shields.io/badge/-Stylus-%23333333?style=flat-square&logo=stylus)
 ![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
 
+<a href="https://app.daily.dev/fahaddevs"><img src="https://api.daily.dev/devcards/1915bfc23c574a30b485faf5d604a9be.png?r=h1i" width="400" alt="fahaddevs's Dev Card"/></a>
 
 ## Stackoverflow 
 [![Fahaddevs StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9135470&theme=dark)](https://stackoverflow.com/users/9135470/fahaddevs)
